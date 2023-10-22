@@ -1,0 +1,15 @@
+/home/frolov/Документы/last_lesson/zadacha_66/bin/Debug/net6.0/zadacha_66
+/home/frolov/Документы/last_lesson/zadacha_66/bin/Debug/net6.0/zadacha_66.deps.json
+/home/frolov/Документы/last_lesson/zadacha_66/bin/Debug/net6.0/zadacha_66.runtimeconfig.json
+/home/frolov/Документы/last_lesson/zadacha_66/bin/Debug/net6.0/zadacha_66.dll
+/home/frolov/Документы/last_lesson/zadacha_66/bin/Debug/net6.0/zadacha_66.pdb
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.csproj.AssemblyReference.cache
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.GeneratedMSBuildEditorConfig.editorconfig
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.AssemblyInfoInputs.cache
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.AssemblyInfo.cs
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.csproj.CoreCompileInputs.cache
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.dll
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/refint/zadacha_66.dll
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.pdb
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/zadacha_66.genruntimeconfig.cache
+/home/frolov/Документы/last_lesson/zadacha_66/obj/Debug/net6.0/ref/zadacha_66.dll
